@@ -1,7 +1,8 @@
+
 def add(firstNum, secondNum):
     return firstNum + secondNum
 
-def sutract(firstNum, secondNum)
+def subtract(firstNum, secondNum)
     return firstrNum - secondNum
 
 
